@@ -1,0 +1,897 @@
+	DAY 1 — BASIC PRINTING & FIRST JAVA PROGRAMS
+1.Write a program to print Hello World. 
+2.Print your name. 
+3.Print your name, age, and city. 
+4.Print student details. 
+5.Print employee details. 
+6.Print multiple lines using one println(). 
+7.Print a quotation using double quotes. 
+8.Print a file path using escape characters. 
+9.Print tab-separated values. 
+10.Print a simple biodata. 
+11.Print a student marksheet format. 
+12.Print an employee salary slip format. 
+13.Print a restaurant menu. 
+14.Print a simple bill format. 
+15.Print a welcome banner. 
+
+
+DAY 2 — VARIABLES & DATA TYPES
+1.Store and print integer value. 
+2.Store and print decimal value. 
+3.Store and print character. 
+4.Store and print boolean value. 
+5.Store student details using variables. 
+6.Store employee information. 
+7.Find the size/range concept of primitive data types. 
+8.Convert int to double. 
+9.Convert double to int. 
+10.Perform implicit type casting. 
+11.Perform explicit type casting. 
+12.Add two byte values. 
+13.Demonstrate character ASCII value. 
+14.Convert character to integer. 
+15.Swap two variables using a third variable. 
+
+
+DAY 3 — ARITHMETIC PROGRAMS
+1.Add two numbers. 
+2.Subtract two numbers. 
+3.Multiply two numbers. 
+4.Divide two numbers. 
+5.Find remainder. 
+6.Find square of a number. 
+7.Find cube of a number. 
+8.Find average of two numbers. 
+9.Find average of three numbers. 
+10.Calculate percentage. 
+11.Calculate simple interest. 
+12.Calculate compound interest. 
+13.Find quotient and remainder. 
+14.Swap numbers without a third variable. 
+15.Create a basic arithmetic calculator. 
+
+
+DAY 4 — USER INPUT PROGRAMS
+1.Accept name from user. 
+2.Accept age from user. 
+3.Accept student details. 
+4.Accept employee details. 
+5.Accept two numbers and add. 
+6.Accept three numbers and find average. 
+7.Accept marks of five subjects. 
+8.Calculate percentage from user input. 
+9.Accept radius and calculate area. 
+10.Accept length and breadth. 
+11.Accept temperature. 
+12.Accept salary. 
+13.Accept character from user. 
+14.Accept boolean input. 
+15.Create student registration input program. 
+
+
+DAY 5 — FORMULA-BASED PROGRAMS
+1.Area of circle. 
+2.Area of rectangle. 
+3.Area of square. 
+4.Area of triangle. 
+5.Perimeter of rectangle. 
+6.Circumference of circle. 
+7.Celsius to Fahrenheit. 
+8.Fahrenheit to Celsius. 
+9.Kilometer to meter. 
+10.Meter to centimeter. 
+11.Days to years. 
+12.Seconds to hours/minutes/seconds. 
+13.Rupees to paise. 
+14.Calculate BMI. 
+15.Calculate total salary. 
+
+
+DAY 6 — IF CONDITION PROGRAMS
+1.Check positive number. 
+2.Check negative number. 
+3.Check zero. 
+4.Check even number. 
+5.Check odd number. 
+6.Check divisible by 5. 
+7.Check divisible by 7. 
+8.Check divisible by 5 and 11. 
+9.Check voting eligibility. 
+10.Check driving eligibility. 
+11.Check pass or fail. 
+12.Check uppercase character. 
+13.Check lowercase character. 
+14.Check alphabet. 
+15.Check digit. 
+
+
+DAY 7 — MAXIMUM & MINIMUM PROGRAMS
+1.Largest of two numbers. 
+2.Smallest of two numbers. 
+3.Largest of three numbers. 
+4.Smallest of three numbers. 
+5.Largest of four numbers. 
+6.Find maximum using ternary operator. 
+7.Find minimum using ternary operator. 
+8.Compare two ages. 
+9.Find highest marks. 
+10.Find lowest marks. 
+11.Find highest salary. 
+12.Find cheapest product price. 
+13.Find maximum without Math.max(). 
+14.Find minimum without Math.min(). 
+15.Find middle number among three numbers. 
+
+
+DAY 8 — CONDITIONAL INTERVIEW PROGRAMS
+1.Check leap year. 
+2.Check vowel or consonant. 
+3.Check alphabet, digit, or special character. 
+4.Check uppercase or lowercase. 
+5.Calculate grade. 
+6.Calculate electricity bill. 
+7.Calculate employee bonus. 
+8.Calculate income discount. 
+9.Check triangle validity. 
+10.Find triangle type. 
+11.Find profit or loss. 
+12.Check valid date basics. 
+13.Find number of days in month. 
+14.Create login validation program. 
+15.Create ATM menu program. 
+
+
+DAY 9 — LOOP BASIC PROGRAMS
+1.Print 1 to 10. 
+2.Print 1 to 100. 
+3.Print 100 to 1. 
+4.Print even numbers from 1 to 100. 
+5.Print odd numbers from 1 to 100. 
+6.Print numbers divisible by 5. 
+7.Print numbers divisible by 3 and 5. 
+8.Find sum of 1 to N. 
+9.Find sum of even numbers. 
+10.Find sum of odd numbers. 
+11.Print multiplication table. 
+12.Print tables from 1 to 10. 
+13.Count numbers in a range. 
+14.Print square of 1 to N. 
+15.Print cube of 1 to N. 
+
+
+DAY 10 — DIGIT PROGRAMS
+1.Count digits in a number. 
+2.Find sum of digits. 
+3.Find product of digits. 
+4.Reverse a number. 
+5.Find first digit. 
+6.Find last digit. 
+7.Find first and last digit sum. 
+8.Swap first and last digit. 
+9.Find largest digit. 
+10.Find smallest digit. 
+11.Count even digits. 
+12.Count odd digits. 
+13.Sum even digits. 
+14.Sum odd digits. 
+15.Find frequency of each digit. 
+
+
+DAY 11 — PALINDROME & REVERSE PROGRAMS
+1.Reverse integer. 
+2.Reverse number using while. 
+3.Reverse number using for. 
+4.Check palindrome number. 
+5.Print palindrome numbers from 1 to 1000. 
+6.Count palindrome numbers in range. 
+7.Find next palindrome number. 
+8.Find previous palindrome number. 
+9.Check binary palindrome. 
+10.Reverse first and last digits. 
+11.Sum palindrome numbers. 
+12.Find N-digit palindrome numbers. 
+13.Palindrome using recursion. 
+14.Palindrome without storing reversed number. 
+15.Find largest palindrome in range. 
+
+
+DAY 12 — PRIME NUMBER PROGRAMS
+1.Check prime number. 
+2.Prime using basic loop. 
+3.Prime using square root logic. 
+4.Print prime numbers from 1 to 100. 
+5.Print prime numbers in range. 
+6.Count prime numbers. 
+7.Sum prime numbers. 
+8.Find Nth prime number. 
+9.Find next prime number. 
+10.Find previous prime number. 
+11.Find prime factors. 
+12.Check co-prime numbers. 
+13.Print twin prime numbers. 
+14.Check emirp number. 
+15.Find largest prime in range.
+
+ 
+DAY 13 — ARMSTRONG & SPECIAL NUMBERS
+1.Check Armstrong number. 
+2.Print Armstrong numbers. 
+3.Armstrong number in range. 
+4.Count Armstrong numbers. 
+5.Sum Armstrong numbers. 
+6.Check Perfect number. 
+7.Print Perfect numbers. 
+8.Check Strong number. 
+9.Print Strong numbers. 
+10.Check Neon number. 
+11.Check Spy number. 
+12.Check Duck number. 
+13.Check Sunny number. 
+14.Check Automorphic number. 
+15.Check Harshad number. 
+
+
+DAY 14 — FACTORIAL, FIBONACCI & SERIES
+1.Find factorial. 
+2.Factorial using while. 
+3.Factorial using for. 
+4.Factorial using recursion. 
+5.Print Fibonacci series. 
+6.Find Nth Fibonacci number. 
+7.Sum Fibonacci numbers. 
+8.Check Fibonacci number. 
+9.Print Tribonacci series. 
+10.Print arithmetic progression. 
+11.Print geometric progression. 
+12.Find sum of series 1+2+3...N. 
+13.Find sum of square series. 
+14.Find sum of cube series. 
+15.Print alternating number series. 
+
+
+DAY 15 — GCD, LCM & ADVANCED NUMBERS
+1.Find factors of number. 
+2.Count factors. 
+3.Sum factors. 
+4.Find GCD. 
+5.Find HCF. 
+6.Find LCM. 
+7.GCD using Euclidean algorithm. 
+8.Check co-prime. 
+9.Find power of number. 
+10.Calculate power without Math.pow(). 
+11.Find square root basics. 
+12.Check perfect square. 
+13.Check perfect cube. 
+14.Convert decimal to binary. 
+15.Convert binary to decimal.
+
+DAY 16 — BASIC STAR PATTERN PROGRAMS
+Square Star Pattern
+Rectangle Star Pattern
+Right-Angled Triangle Star Pattern
+Inverted Right-Angled Triangle Pattern
+Left-Aligned Triangle Star Pattern
+Inverted Left-Aligned Triangle Pattern
+Increasing Star Pattern
+Decreasing Star Pattern
+Two Right Triangle Star Pattern
+Horizontal Star Line Pattern
+Vertical Star Line Pattern
+Alternate Star Pattern
+Odd Rows Star Pattern
+Even Rows Star Pattern
+Staircase Star Pattern
+
+
+DAY 17 — PYRAMID PATTERN PROGRAMS
+Full Pyramid Star Pattern
+Inverted Full Pyramid Pattern
+Half Pyramid Star Pattern
+Diamond Star Pattern
+Half Diamond Star Pattern
+Hollow Pyramid Pattern
+Hollow Inverted Pyramid Pattern
+Hollow Diamond Pattern
+Sandglass Star Pattern
+Hourglass Star Pattern
+Christmas Tree Pattern
+Double Pyramid Pattern
+Butterfly Star Pattern
+Arrow Star Pattern
+Kite Star Pattern
+
+
+DAY 18 — NUMBER PATTERN PROGRAMS
+Repeated Number Pattern (111, 222, 333)
+Increasing Number Pattern (12345)
+Reverse Number Pattern (54321)
+Floyd's Triangle Pattern
+0-1 Triangle Pattern
+Repeated Row Number Pattern
+Repeated Column Number Pattern
+Continuous Number Pattern
+Odd Number Pattern
+Even Number Pattern
+Multiplication Number Pattern
+Palindromic Number Pyramid
+Number Diamond Pattern
+Pascal's Triangle
+Concentric Number Square Pattern
+
+
+DAY 19 — ALPHABET PATTERN PROGRAMS
+Alphabet A Pattern
+ABC Triangle Pattern
+Repeated Alphabet Pattern
+Continuous Alphabet Pattern
+Reverse Alphabet Pattern
+Alphabet Pyramid Pattern
+Alphabet Diamond Pattern
+Hollow Alphabet Triangle Pattern
+Character Floyd's Triangle
+Palindromic Alphabet Pattern
+Alphabet X Pattern
+Alphabet V Pattern
+Alphabet M Pattern
+Alphabet Z Pattern
+Alphabet Butterfly Pattern
+
+
+DAY 20 — INTERVIEW PATTERN PROGRAMS
+Butterfly Pattern
+Spiral Number Pattern
+Concentric Square Pattern
+Snake Matrix Pattern
+Zigzag Pattern
+X Star Pattern
+Plus Star Pattern
+Hollow Hourglass Pattern
+Rhombus Pattern
+Hollow Rhombus Pattern
+Binary Pyramid Pattern
+Pascal's Triangle Pattern
+Number Palindrome Pyramid
+Diamond Number Pattern
+Advanced Mixed Star and Number Pattern
+
+
+DAY 21 — ARRAY BASIC PROGRAMS
+Create an Array
+Initialize an Array
+Accept Array Elements from User
+Display Array Elements
+Find Length of an Array
+Find Sum of Array Elements
+Find Average of Array Elements
+Print Even Elements from Array
+Print Odd Elements from Array
+Print Positive Elements from Array
+Print Negative Elements from Array
+Count Zero Elements in Array
+Copy One Array into Another Array
+Clone an Array
+Compare Two Arrays
+
+
+DAY 22 — ARRAY MAXIMUM AND MINIMUM PROGRAMS
+Find Maximum Element in Array
+Find Minimum Element in Array
+Find Second Largest Element
+Find Second Smallest Element
+Find Third Largest Element
+Find Third Smallest Element
+Find Kth Largest Element
+Find Kth Smallest Element
+Find Largest Even Element
+Find Largest Odd Element
+Find Smallest Positive Element
+Find Largest Negative Element
+Find Difference Between Maximum and Minimum
+Find Top Three Largest Elements
+Find Three Smallest Elements
+
+
+DAY 23 — ARRAY SEARCHING PROGRAMS
+Linear Search in Array
+Binary Search in Array
+Find First Occurrence of an Element
+Find Last Occurrence of an Element
+Find All Occurrences of an Element
+Find Frequency of an Element
+Search Duplicate Element
+Search Even Elements
+Search Odd Elements
+Search Prime Numbers in Array
+Find Closest Element to Target
+Find Floor Element
+Find Ceiling Element
+Search Element in Rotated Sorted Array
+Binary Search Using Recursion
+
+
+DAY 24 — ARRAY SORTING PROGRAMS
+Sort Array in Ascending Order
+Sort Array in Descending Order
+Bubble Sort
+Optimized Bubble Sort
+Selection Sort
+Insertion Sort
+Counting Sort
+Sort Even and Odd Elements Separately
+Sort Positive and Negative Elements
+Sort First Half Ascending
+Sort Second Half Descending
+Sort Elements by Frequency
+Sort Array Containing 0s and 1s
+Sort Array Containing 0s, 1s, and 2s
+Merge Two Sorted Arrays
+
+
+DAY 25 — ARRAY DUPLICATE AND FREQUENCY PROGRAMS
+Find Duplicate Elements
+Find Unique Elements
+Remove Duplicate Elements
+Find Frequency of Each Element
+Find Most Frequent Element
+Find Least Frequent Element
+Find First Duplicate Element
+Find Last Duplicate Element
+Find First Unique Element
+Count Repeated Elements
+Count Duplicate Elements
+Count Unique Elements
+Find Frequency Using HashMap
+Find Duplicates Using HashSet
+Find Elements Occurring More Than N/2 Times
+
+
+DAY 26 — ARRAY MANIPULATION PROGRAMS
+Reverse an Array
+Left Rotate Array by One Position
+Right Rotate Array by One Position
+Rotate Array by K Positions
+Move All Zeros to End
+Move All Zeros to Beginning
+Move Negative Elements to Left
+Rearrange Positive and Negative Elements
+Swap Adjacent Array Elements
+Reverse Array in Groups
+Shuffle Array Elements
+Insert Element into Array
+Delete Element from Array
+Merge Two Arrays
+Split an Array into Two Arrays
+
+
+DAY 27 — ARRAY INTERVIEW PROGRAMS
+Find Missing Number in Array
+Find Duplicate Number in Array
+Find Pair with Given Sum
+Find Triplet with Given Sum
+Find Subarray with Given Sum
+Maximum Subarray Sum Using Kadane's Algorithm
+Find Leaders in Array
+Find Equilibrium Index
+Find Majority Element
+Stock Buy and Sell Problem
+Rainwater Trapping Problem
+Longest Consecutive Sequence
+Product of Array Except Self
+Find Intersection of Two Arrays
+Find Union of Two Arrays
+
+
+DAY 28 — STRING BASIC PROGRAMS
+Create a String
+Accept String from User
+Find Length of String
+Access Characters Using charAt()
+Compare Two Strings Using compareTo()
+Compare Strings Using equals()
+Compare Strings Using equalsIgnoreCase()
+Concatenate Two Strings
+Extract Substring
+Check String Contains a Word
+Check String Starts with Given Text
+Check String Ends with Given Text
+Find First Index of Character
+Find Last Index of Character
+Convert String to Uppercase and Lowercase
+
+
+DAY 29 — STRING REVERSE PROGRAMS
+Reverse String Using Loop
+Reverse String Using StringBuilder
+Reverse String Using Character Array
+Reverse String Using Recursion
+Reverse Words in a Sentence
+Reverse Each Word in a String
+Reverse Alternate Words
+Reverse Only Vowels
+Reverse Only Consonants
+Reverse First Half of String
+Reverse Second Half of String
+Reverse String While Keeping Spaces
+Reverse String While Keeping Special Characters
+Reverse String Without Built-in Methods
+Reverse Every Word Using Recursion
+
+
+DAY 30 — STRING PALINDROME PROGRAMS
+Check Palindrome String
+Check Palindrome Ignoring Case
+Check Palindrome Ignoring Spaces
+Check Sentence Palindrome
+Check Palindrome Using Recursion
+Find Palindrome Words in Sentence
+Count Palindrome Words
+Find Longest Palindrome Word
+Find Shortest Palindrome Word
+Find Palindromic Substrings
+Count Palindromic Substrings
+Find Longest Palindromic Substring
+Check Palindrome After Removing One Character
+Check Alphanumeric Palindrome
+Check Palindrome Permutation
+
+
+DAY 31 — STRING CHARACTER PROGRAMS
+Count Vowels in String
+Count Consonants in String
+Count Digits in String
+Count Spaces in String
+Count Special Characters
+Count Uppercase Characters
+Count Lowercase Characters
+Print ASCII Value of Each Character
+Convert Uppercase to Lowercase
+Toggle Case of Each Character
+Remove Vowels from String
+Remove Consonants from String
+Find Frequency of Vowels
+Find Frequency of Consonants
+Count All Character Types
+
+
+DAY 32 — STRING DUPLICATE AND FREQUENCY PROGRAMS
+Find Frequency of Each Character
+Find Duplicate Characters
+Find Unique Characters
+Remove Duplicate Characters
+Find First Repeated Character
+Find First Non-Repeated Character
+Find Last Repeated Character
+Find Last Unique Character
+Find Most Frequent Character
+Find Least Frequent Character
+Count Duplicate Characters
+Count Unique Characters
+Character Frequency Using HashMap
+Character Frequency Without Collections
+Sort Characters by Frequency
+
+
+DAY 33 — STRING WORD PROGRAMS
+Count Words in Sentence
+Reverse Words in Sentence
+Reverse Each Word
+Find Longest Word
+Find Shortest Word
+Find Duplicate Words
+Find Frequency of Each Word
+Remove Duplicate Words
+Find First Repeated Word
+Find First Unique Word
+Sort Words Alphabetically
+Find Words Starting with Vowel
+Find Words Ending with Vowel
+Find Length of Each Word
+Find Most Frequent Word
+
+
+DAY 34 — ANAGRAM AND STRING COMPARISON PROGRAMS
+Check Anagram Using Sorting
+Check Anagram Using Character Frequency
+Check Anagram Without Sorting
+Group Anagrams
+Count Anagram Pairs
+Check String Rotation
+Check Isomorphic Strings
+Check Pangram
+Check Perfect Pangram
+Check Subsequence
+Check Substring
+Find Common Characters
+Find Uncommon Characters
+Remove Common Characters
+Compare Character Frequency of Two Strings
+
+
+DAY 35 — ADVANCED STRING INTERVIEW PROGRAMS
+Longest Substring Without Repeating Characters
+Longest Common Prefix
+String Compression
+Run-Length Encoding
+Valid Parentheses Problem
+Balanced Brackets Problem
+Roman Number to Integer
+Integer to Roman Number
+String to Integer (atoi)
+Longest Repeating Character Replacement
+Minimum Window Substring
+Word Pattern Problem
+String Rotation Problem
+Longest Common Substring
+Longest Palindromic Substring
+
+
+DAY 36 — BASIC 2D ARRAY PROGRAMS
+Create a 2D Array
+Initialize a 2D Array
+Accept Matrix Elements from User
+Display Matrix Elements
+Find Number of Rows
+Find Number of Columns
+Find Sum of Matrix Elements
+Find Average of Matrix Elements
+Find Maximum Element in Matrix
+Find Minimum Element in Matrix
+Count Even Elements
+Count Odd Elements
+Print Row-Wise Elements
+Print Column-Wise Elements
+Search Element in Matrix
+
+
+DAY 37 — MATRIX OPERATION PROGRAMS
+Matrix Addition
+Matrix Subtraction
+Matrix Multiplication
+Matrix Transpose
+Sum of Each Row
+Sum of Each Column
+Main Diagonal Elements
+Secondary Diagonal Elements
+Sum of Main Diagonal
+Sum of Secondary Diagonal
+Upper Triangular Matrix
+Lower Triangular Matrix
+Check Identity Matrix
+Check Symmetric Matrix
+Check Diagonal Matrix
+
+
+DAY 38 — MATRIX INTERVIEW PROGRAMS
+Spiral Matrix Traversal
+Rotate Matrix 90 Degrees Clockwise
+Rotate Matrix 90 Degrees Anti-Clockwise
+Search Element in Sorted Matrix
+Print Matrix in Zigzag Order
+Print Matrix in Snake Pattern
+Print Matrix Boundary Elements
+Find Maximum Row Sum
+Find Maximum Column Sum
+Find Row with Maximum Number of 1s
+Set Matrix Zeros Problem
+Matrix Rotation In-Place
+Find Saddle Point in Matrix
+Toeplitz Matrix Check
+Reshape a Matrix
+
+
+DAY 39 — BASIC RECURSION PROGRAMS
+Print 1 to N Using Recursion
+Print N to 1 Using Recursion
+Sum of Natural Numbers
+Factorial Using Recursion
+Fibonacci Using Recursion
+Find Power Using Recursion
+Sum of Digits
+Count Digits
+Reverse Number
+Check Palindrome Number
+Find GCD
+Multiply Two Numbers
+Find Maximum in Array
+Find Minimum in Array
+Find Sum of Array Elements
+
+
+DAY 40 — STRING AND ARRAY RECURSION
+Reverse String Using Recursion
+Check String Palindrome
+Find String Length
+Count Vowels
+Count Consonants
+Remove Character from String
+Replace Character in String
+Find First Occurrence
+Find Last Occurrence
+Linear Search Using Recursion
+Binary Search Using Recursion
+Reverse Array Using Recursion
+Check Sorted Array
+Find Array Sum
+Count Occurrences in Array
+
+
+DAY 41 — ADVANCED RECURSION AND BACKTRACKING
+Tower of Hanoi
+Generate String Subsequences
+Generate Array Subsequences
+Generate String Permutations
+Generate Number Permutations
+Generate Combinations
+Generate Binary Strings
+Generate Balanced Parentheses
+N-Queens Problem
+Rat in a Maze
+Sudoku Solver
+Word Search Problem
+Combination Sum
+Subset Sum Problem
+Palindrome Partitioning
+
+
+DAY 42 — CLASS, OBJECT AND CONSTRUCTOR PROGRAMS
+Student Class and Object Program
+Employee Class and Object Program
+Car Class and Object Program
+Bank Account Class Program
+Default Constructor Program
+Parameterized Constructor Program
+Constructor Overloading
+Copy Constructor Program
+this Keyword Program
+static Variable Program
+static Method Program
+Static Block Program
+Object Counter Program
+Student Management Program
+Employee Salary Calculator
+
+
+DAY 43 — INHERITANCE AND POLYMORPHISM PROGRAMS
+Single Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Multiple Inheritance Using Interface
+Method Overloading
+Constructor Overloading
+Method Overriding
+Runtime Polymorphism
+Upcasting
+Downcasting
+super Keyword
+Vehicle Inheritance System
+Employee Salary System
+Shape Area Calculator
+Payment Processing System
+
+
+DAY 44 — ABSTRACTION, ENCAPSULATION AND OOP INTERVIEW PROGRAMS
+Abstract Class Program
+Abstract Method Program
+Interface Program
+Multiple Interfaces Program
+Encapsulation Program
+Bank Account Encapsulation
+Association Program
+Aggregation Program
+Composition Program
+Immutable Class
+Singleton Class
+Library Management System
+Shopping Cart System
+Notification System Using Interface
+Employee Management OOP Program
+
+
+DAY 45 — LIST AND SET PROGRAMS
+Create ArrayList
+Add Elements to ArrayList
+Remove Elements from ArrayList
+Search Element in ArrayList
+Sort ArrayList
+Reverse ArrayList
+Find Duplicate Elements in ArrayList
+Remove Duplicates from ArrayList
+Create LinkedList
+ArrayList vs LinkedList Program
+Create HashSet
+Remove Duplicates Using HashSet
+Create TreeSet
+Sort Unique Elements Using TreeSet
+Find Common Elements Between Two Lists
+
+
+DAY 46 — MAP AND COLLECTION INTERVIEW PROGRAMS
+Create HashMap
+Add Key-Value Pairs
+Iterate HashMap
+Character Frequency Using HashMap
+Word Frequency Using HashMap
+Find Duplicate Elements Using HashMap
+Find First Non-Repeated Character
+Sort HashMap by Keys
+Sort HashMap by Values
+Create TreeMap
+Employee Sorting Using Comparable
+Employee Sorting Using Comparator
+Sort Employee by Salary
+Group Employees by Department
+Find Highest Salary Employee
+
+
+DAY 47 — EXCEPTION HANDLING PROGRAMS
+Handle ArithmeticException
+Handle NullPointerException
+Handle ArrayIndexOutOfBoundsException
+Handle NumberFormatException
+Multiple Catch Blocks
+Nested Try-Catch
+Finally Block
+throw Keyword
+throws Keyword
+Create Custom Exception
+Age Validation Exception
+Insufficient Balance Exception
+Invalid Marks Exception
+Login Validation Exception
+Employee Salary Exception
+
+
+DAY 48 — FILE HANDLING PROGRAMS
+Create a File
+Write Data into File
+Read Data from File
+Append Data into File
+Delete a File
+Copy One File to Another
+Count Characters in File
+Count Words in File
+Count Lines in File
+Search Word in File
+Replace Word in File
+Store Student Records in File
+Store Employee Records in File
+Read CSV File
+Compare Two Files
+
+
+DAY 49 — JAVA 8 STREAM API INTERVIEW PROGRAMS
+Find Even Numbers Using Stream API
+Find Odd Numbers Using Stream API
+Find Maximum Number Using Stream
+Find Minimum Number Using Stream
+Find Second Highest Number Using Stream
+Find Second Lowest Number Using Stream
+Find Duplicate Numbers Using Stream
+Find Unique Numbers Using Stream
+Find Frequency of Numbers Using Stream
+Find Frequency of Characters Using Stream
+Sort List Using Stream
+Sort Employees by Salary Using Stream
+Find Highest Salary Employee Using Stream
+Group Employees by Department Using Stream
+Find Average Salary by Department Using Stream
+
+
+DAY 50 — TOP JAVA CODING INTERVIEW PROGRAMS
+Reverse String Without Built-in Method
+Find First Non-Repeated Character
+Find Longest Substring Without Repeating Characters
+Check Anagram Strings
+Find Second Largest Element in Array
+Find Missing Number in Array
+Move All Zeros to End of Array
+Find Duplicate Elements in Array
+Find Pair with Given Sum
+Find Maximum Subarray Sum
+Find Character Frequency Using HashMap
+Sort Employees by Salary
+Find Second Highest Number Using Stream API
+Create an Immutable Class
+Create a Singleton Class
